@@ -7,11 +7,6 @@ A simple contact card application built with React and Vite.
 - Display profile pictures
 - Display names and email addresses
 - Reusable Profile component
-## Preview
-
-<p align="center">
-  <img src="./public/contact.png" alt="Contact Card Preview" width="400">
-</p>
 
 ## Technologies Used
 - React
