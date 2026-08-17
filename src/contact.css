@@ -1,0 +1,10 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  
+}
+#name {
+color:rgb(118, 210, 217);
+}
