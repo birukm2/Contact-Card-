@@ -21,5 +21,7 @@ A simple contact card application built with React and Vite.
 ## Personal Information
 
 - Name: Biruk Mesfin
+- Email: birukmmulugetab@gmail.com
 - ID: AL0501
 - Section: DRBSE2401B
+  
