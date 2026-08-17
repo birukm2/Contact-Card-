@@ -10,7 +10,7 @@ A simple contact card application built with React and Vite.
 ## Preview
 
 <p align="center">
-  <img src="./public/contact-card.png" alt="Contact Card Preview" width="400">
+  <img src="./public/contact.png" alt="Contact Card Preview" width="400">
 </p>
 
 ## Technologies Used
