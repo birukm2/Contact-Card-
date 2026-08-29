@@ -11,9 +11,16 @@ body {
 }
 
 #root {
-  min-height: 70vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+@media (max-width: 500px) {
+  #root {
+    width: 100%;
+    padding: 15px;
+    align-items: flex-start;
+  }
+}
