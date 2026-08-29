@@ -3,12 +3,12 @@
   flex-direction: column;
   gap: 15px;
   align-items: center;
-  
-  
 }
+
 #name {
-color:rgb(219, 241, 243);
+  color: rgb(219, 241, 243);
 }
+
 #search {
   display: flex;
   align-items: center;
@@ -17,5 +17,18 @@ color:rgb(219, 241, 243);
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(78, 76, 76, 0.1);
   width: 400px;
+}
 
+@media (max-width: 500px) {
+  #search {
+    width: 100%;
+  }
+
+  #name {
+    font-size: 28px;
+  }
+
+  .contact {
+    width: 100%;
+  }
 }
